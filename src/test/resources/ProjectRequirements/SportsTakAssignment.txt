@@ -1,0 +1,33 @@
+
+
+   Sports Tak Assignment
+______________________________________________________________
+
+  1- Open the website https://thesportstak.com/ & select the language 
+  
+  2- Click on each thumbnail and verify that links are not broken on homepage. 
+
+  3- Click on Buzz and scroll to the 3rd page and click on the links and verify the links are not broken. 
+
+  4- Click on the menu and change the theme. 
+
+  5- Click on any Web Stories displayed
+
+  6- Capture the text on each Web Stories and each page of webstories. 
+
+  7- Then click on the next webstory and return to the homepage.
+  
+  
+  
+  Framework 
+ ______________________________________
+
+   1- Use Selenium Webdriver - JAVA
+
+   2- It should be a maven build project integrated on TestNG. 
+
+   3- The framework should be Page Object based Model (POM) and page Factory should be used. 
+
+   4- Integrate with TestNG report using ITestListener. 
+
+   5- BDD framework would be an add- on this framework. Added advantage.
